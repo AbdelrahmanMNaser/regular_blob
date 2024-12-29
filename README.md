@@ -1,4 +1,14 @@
 # Regular_Blob
+
+## Index
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [License](#license)
+
+## Overview
 A React-based web application for creating and customizing both regular geometric shapes and freeform blob shapes.
 
 ## Features
@@ -13,10 +23,24 @@ A React-based web application for creating and customizing both regular geometri
   - Free-form drawing with pencil tool
   - Eraser tool for modifications
   - Color customization
+ 
+## Tech Stack
+- React 18
+- React Router v6
+- TailwindCSS
+- HTML Canvas API
+
+## Project Structure
+```
+src/
+  components/         # Reusable UI components
+  pages/             # Route-based page components
+  utils/             # Helper functions
+  App.js             # Root component
+```
 
 ## Getting Started
-
-```sh
+```
 # Install dependencies
 npm install
 
@@ -27,24 +51,7 @@ npm start
 npm run build
 ```
 
-## Tech Stack
-
-- React 18
-- React Router v6
-- TailwindCSS
-- HTML Canvas API
-
-## Project Structure
-
-```
-src/
-  components/         # Reusable UI components
-  pages/             # Route-based page components
-  utils/             # Helper functions
-  App.js             # Root component
-```
 
 ## License
-
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
