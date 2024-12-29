@@ -46,26 +46,5 @@ src/
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the 
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
-LICENSE
-
- file for details.
-
-## Available Scripts
-
-- 
-
-npm start
-
- - Runs the development server
-- `npm build` - Builds the app for production
-- `npm test` - Runs the test suite
-- `npm eject` - Ejects from Create React App
-
-## Browser Support
-
-Supports all modern browsers according to the browserslist configuration:
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
