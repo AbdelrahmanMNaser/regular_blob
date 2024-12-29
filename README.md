@@ -26,7 +26,6 @@ A React-based web application for creating and customizing both regular geometri
  
 ## Tech Stack
 - React 18
-- React Router v6
 - TailwindCSS
 - HTML Canvas API
 
